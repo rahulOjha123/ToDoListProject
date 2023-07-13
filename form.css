@@ -1,0 +1,30 @@
+* {
+    padding: 0%;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.main {
+
+    width: 100%;
+    height: 80vh;
+    background-color: rgb(6, 109, 109);
+}
+
+.form_div {
+    
+    justify-content: center;
+    align-items: center;
+}
+
+form {
+    margin-left: 400px;
+    /* margin-top: 40px; */
+    border: 1px solid white;
+    width: 300px;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+    
+
+}
